@@ -1,0 +1,23 @@
+{
+    "name": "example.cfw.guide",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "github.com/cfw-guide/example.cfw.guide",
+    "author": "emiyl <me@emiyl.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@vuepress/plugin-register-components": "2.0.0-beta.49",
+        "@vuepress/plugin-search": "2.0.0-beta.49",
+        "markdown-it-container": "^3.0.0",
+        "markdown-it-include": "^2.0.0",
+        "vuepress": "2.0.0-beta.49"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "ghbuild": "NODE_OPTIONS=--max_old_space_size=16384 vuepress build docs"
+    },
+    "dependencies": {
+        "marked": "^4.0.16"
+    }
+}
