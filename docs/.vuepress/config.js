@@ -9,7 +9,7 @@ module.exports = {
   locales: locales,
   
   theme: localTheme({
-    repo: 'cfw-guide/example.cfw.guide',
+    repo: 'cfw-guide/psp.cfw.guide',
     selectLanguageText: '<i class="fas fa-globe"></i>',
     locales: themeConfigLocales,
     adUnits: [

@@ -34,7 +34,7 @@ module.exports = {
   
   '/alternate/': [
     {
-      text: 'Cemu Guide',
+      text: '___ Guide',
       children: [
         '/alternate/page-one',
         '/alternate/page-two'

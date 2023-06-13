@@ -1,8 +1,8 @@
 {
-    "name": "example.cfw.guide",
+    "name": "psp.cfw.guide",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "github.com/cfw-guide/example.cfw.guide",
+    "repository": "github.com/cfw-guide/psp.cfw.guide",
     "author": "emiyl <me@emiyl.com>",
     "license": "MIT",
     "devDependencies": {

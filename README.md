@@ -1,6 +1,8 @@
-## example.cfw.guide
+## psp.cfw.guide
 
-An example repo to build cfw.guide sites from 
+Modding guide for the PSP.
+
+https://psp.emiyl.com/
 
 ## Running the site locally
 
@@ -10,8 +12,8 @@ This requires the following installed to your system:
 
 To test the website locally, simply run the following commands:
 ```
-git clone https://github.com/example.cfw.guide.git --recursive
-cd example.cfw.guide
+git clone https://github.com/psp.cfw.guide.git --recursive
+cd psp.cfw.guide
 yarn install
 yarn dev
 ```
