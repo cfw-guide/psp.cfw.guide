@@ -39,7 +39,7 @@ Suggestion: Make a directory inside `PSP\GAME` called `ROMS` and then create fol
 ## I do not want CFW anymore, how will I remove it?
 If you have installed temporary CFW, you don't actually need to do anything. Just reboot your PSP and don't run the CFW launcher.
 
-If you have installed permanent CFW like Infinity or CIPL Flasher, the process is a bit more complicated. We will release a guide soon.
+If you have installed permanent CFW like Infinity or CIPL Flasher, the process is a bit more complicated. We will release a guide soon about this.
 
 ## Is hacking my PSP safe? 
 It is indeed safe **IF** you follow the instructions exactly how it is given. Even with the safest methods in any system, you still have a chance of bricking if you do not follow the guide for it perfectly. 
