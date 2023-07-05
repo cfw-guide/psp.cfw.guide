@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b5698e4","path":"/page3.html","title":"Gathering files","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1688431572000,"contributors":[{"name":"Jackie","email":"49613637+jackieburkhart@users.noreply.github.com","commits":1}]},"filePathRelative":"page3.md"}');export{e as data};

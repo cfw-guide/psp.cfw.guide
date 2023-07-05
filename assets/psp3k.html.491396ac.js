@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-00a6e58d","path":"/psp3k.html","title":"Installing Permanent CFW with Infinity","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1688560528000,"contributors":[{"name":"Jackie","email":"49613637+jackieburkhart@users.noreply.github.com","commits":2}]},"filePathRelative":"psp3k.md"}');export{e as data};

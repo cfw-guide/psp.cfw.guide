@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b65724de","path":"/donations.html","title":"Donations","lang":"en-US","frontmatter":{"title":"Donations","description":"Support the guide by donating!"},"excerpt":"","headers":[],"git":{"updatedTime":1686679342000,"contributors":[{"name":"emiyl","email":"me@emiyl.com","commits":1}]},"filePathRelative":"donations.md"}');export{t as data};
