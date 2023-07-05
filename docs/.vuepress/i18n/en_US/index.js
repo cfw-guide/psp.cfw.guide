@@ -4,7 +4,7 @@ module.exports = {
   locales: {
     lang: 'en-US',
     title: 'PSP Guide',
-    description: 'A complete guide to ___ and ___.',
+    description: 'A complete guide to hacking the PSP.',
   },
   
   themeConfig: {

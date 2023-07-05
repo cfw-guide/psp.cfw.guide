@@ -2,19 +2,27 @@ module.exports = [
   {
     text: 'Guides',
     children: [
-      '/page-one',
-      '/page-two',
       {
-        text: 'Page three',
-        link: '/page-three',
+        text: 'Hacking the PSP',
+        link: '/page1.md',
+      },
+      {
+        text: 'Installing Games',
+        link: '/page5.md',
+      },
+      {
+        text: 'Installing Emulators and other Homebrew',
+        link: '/page6.md',
       },
     ],
   },
   {
     text: 'Help',
     children: [
-      '/faq',
-      '/troubleshooting',
+      {
+        text: 'FAQ',
+        link: '/faq.md',
+      },
       {
         text: 'Discord',
         link: 'https://discord.gg/',

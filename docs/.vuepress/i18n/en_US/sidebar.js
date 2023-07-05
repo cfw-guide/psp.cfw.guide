@@ -1,7 +1,6 @@
 const support = {
   text: 'Support',
   children: [
-    '/troubleshooting',
     '/faq',
     {
       text: 'Discord',
@@ -22,19 +21,32 @@ const site = {
 module.exports = {
   '/': [
     {
-      text: '___ Guide',
+      text: 'PSP Guide',
       children: [
-        '/page-one',
-        '/page-two',
+        '/page1',
+        '/page2',
+        '/page3',
+        '/page4',
+        '/page5',
+        '/page6',
       ],
     },
-    support,
-    site,
+    {
+      text: 'Support',
+      children: [
+        '/faq',
+        {
+          text: 'Discord',
+          link: 'https://discord.gg/',
+        },
+      ],
+    },
+    '/site-navigation',
   ],
   
   '/alternate/': [
     {
-      text: '___ Guide',
+      text: 'PSP Guide',
       children: [
         '/alternate/page-one',
         '/alternate/page-two'
