@@ -14,6 +14,10 @@ heroFilter: 0.5
 For complete guides to homebrew and custom firmware for other devices, check out [CFW.Guide](https://cfw.guide).
 :::
 
+::: warning
+Read the [FAQ](/faq.md) even if you're not a newcomer. It will be helpful and will give you valuable insights.
+:::
+
 ::: tip
 Thoroughly read all of the introductory pages (including this one!) before proceeding.
 :::

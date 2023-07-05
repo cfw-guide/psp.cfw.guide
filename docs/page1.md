@@ -29,7 +29,7 @@ Currently, there are 2 CFWs which are stable and recommended.
 
 The main difference between both of these is that users reported that a lot of PS1 games don't work on PRO-C2. Both  come with a "supposedly" more stable permanent CFW solution **(CIPL Flasher)** for select models of the PSP.
 
-Both CFWs are stable and matured. Both are 99.99% similar so you cannot go wrong with either of those. For the sake of this guide, we will use **LME**. But the process is same.
+Both CFWs are stable and matured. Both are 99.99% similar so you cannot go wrong with either of those.
 
 These are **temporary** CFWs. Meaning every time you turn off your PSP, you first have to run your CFW from your Games screen before you can launch any backups or homebrew.
 
