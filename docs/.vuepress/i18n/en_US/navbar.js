@@ -25,7 +25,7 @@ module.exports = [
       },
       {
         text: 'Discord',
-        link: 'https://discord.gg/',
+        link: 'https://discord.gg/bePrj9W',
       },
     ],
   },

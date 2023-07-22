@@ -4,7 +4,7 @@ const support = {
     '/faq',
     {
       text: 'Discord',
-      link: 'https://discord.gg/'
+      link: 'https://discord.gg/bePrj9W'
     }
   ],
 }
@@ -37,7 +37,7 @@ module.exports = {
         '/faq',
         {
           text: 'Discord',
-          link: 'https://discord.gg/',
+          link: 'https://discord.gg/bePrj9W',
         },
       ],
     },

@@ -18,7 +18,7 @@ module.exports = {
   	toggleDarkMode: "Toggle dark mode",
   	toggleSidebar: "Toggle sidebar",
         
-    discordNoticeText: "If you need further help, ask on the [Discord Server](https://discord.gg/) for assistance.",
+    discordNoticeText: "If you need further help, ask on the [Discord Server](https://discord.gg/bePrj9W/) for assistance.",
     repoLabel: '<i class="fab fa-github"></i>',
       
     navbar: require('./navbar'),
